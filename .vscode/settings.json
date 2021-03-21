@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "venv/bin/python",
+    "robot.pythonpath": [
+        "venv/bin/python3",
+        "robot-tests/afz-lib",
+    ],
+}
